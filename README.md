@@ -1,4 +1,4 @@
-# Neighbor_Map_Site
+# Neighbor Map Site
 Enter street adress and city to view google maps image and lates New York Times articles about your neighborgood
 Project Name:
 ===============================
