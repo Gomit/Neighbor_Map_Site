@@ -1,5 +1,5 @@
 # Neighborhood Map Site
-Enter street adress and city to view google maps image and lates New York Times articles about your neighborgood
+Enter street address and city to view google maps image and latest New York Times articles about your neighborhood
 Project Name:
 ===============================
 ###Neighborhood Map
@@ -9,7 +9,7 @@ Project Name:
 Description
 ===============================
 
-Enter street adress and city to view a map of your neighborhood or a neighborhood you would like to visit. 
+Enter street address and city to view a map of your neighborhood or a neighborhood you would like to visit. 
 Third-party data from google maps images and New York Times will present infomration about the locations. 
 
 To view the project, check out the repository and inspect the code,
