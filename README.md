@@ -10,7 +10,7 @@ Description
 ===============================
 
 Enter street address and city to view a map of your neighborhood or a neighborhood you would like to visit. 
-Third-party data from google maps images and New York Times will present infomration about the locations. 
+Third-party data from google maps images and New York Times will present information about the locations. 
 
 To view the project, check out the repository and inspect the code,
 
